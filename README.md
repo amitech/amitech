@@ -3,7 +3,7 @@
 **About Me:**
 - DevOps Engineer at [group.one](https://group.one)
 - previously: System Engineer at [Ranosys Technologies](https://ranosys.com)
-- I love Linux, Python, Prometheus, Photography and Cycling.
+- I love Linux, Python, Infrastructure & Monitoring, Photography and Cycling
 
 <!--
 - 🔭 I’m currently working on ...
@@ -16,4 +16,3 @@
 -->
 
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitech&show_icons=true&count_private=true)
-
