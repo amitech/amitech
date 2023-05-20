@@ -1,7 +1,7 @@
 ### Hi there, I'm [Amit](https://linkedin.com/in/amitsharma928/) 👋
 
 **About Me:**
-- DevOps Engineer at [group.one](https://www.one.com)
+- DevOps Engineer at [one.com](https://www.one.com)
 - previously: System Engineer at [Ranosys Technologies](https://www.ranosys.com)
 - I love Linux, Python, Infrastructure & Monitoring, Photography and Cycling
 - Reach out at [LinkedIn](https://linkedin.com/in/amitsharma928/), [Twitter](https://twitter.com/amitechnix)
